@@ -1,7 +1,5 @@
 # Shanghai Weather Foundry Demo
 
-This is a small Python demo project for hackathon review.
-
 It intentionally uses a simple implementation:
 
 - A local scheduler runs every day at 06:00 Asia/Shanghai time.
